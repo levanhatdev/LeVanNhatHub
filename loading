@@ -1,2 +1,2 @@
 
-loadstring(game:HttpGet("https://github.com/levanhatdev/tommyteohub/raw/key/LoginKey.lua"))()
+loadstring(game:HttpGet("https://github.com/levanhatdev/LeVanNhatHub/raw/key/KeyScript.lua"))()
